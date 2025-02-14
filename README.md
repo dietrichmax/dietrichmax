@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm Max Dietrich, a passionate geospatial develope
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Powershell](https://img.shields.io/badge/-Powershell-000?&logo=Powershell)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
